@@ -1,5 +1,4 @@
-import fileinput
-
+# if 4. Make it a '3' and the corresponding digit a '1' at number B
 lines = int(input())
 
 for x in range(lines):
